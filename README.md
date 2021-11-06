@@ -111,7 +111,7 @@ To get a local copy up and running follow these simple steps.
 6. In the string field add your gateway “Gateway ID” 
 <img src="images/injectNode.PNG" alt="Demo" width="450" height="200">
 
-<img src="images/injectNode.PNG" alt="Demo" width="450" height="450">
+<img src="images/gatewayId.PNG" alt="Demo" width="450" height="450">
 
 
 

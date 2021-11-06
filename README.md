@@ -40,18 +40,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li>
-	<a href="#usage">Usage</a>
-	<ul>
-        <li><a href="#gateway-within-radius">Gateway within Radius</a></li>
-        <li><a href="#radius-around-gateway">Radius around Gateway</a></li>
-        <li><a href="#plot-new-node">Plot New Node</a></li>
-	   <li><a href="#airtime-calculator-for-loRaWAN">Airtime calculator for LoRaWAN</a></li>
-	   <li><a href="#the-things-network-status-page">The Things Network Status Page</a></li>
-        <li><a href="#demo">Demo</a></li>
-        <li><a href="#flow">Flow</a></li>
-      </ul>
-    </li> 
+    <li><a href="#usage">Usage</a> </li> 
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -103,7 +92,7 @@ To get a local copy up and running follow these simple steps.
    ```
 4. Install the Node-Red flow
    ```sh
-   https://github.com/JohanScheepers/TTN_Gateway_-Notification-/blob/master/flow/TTN_Gateway_Radius.json
+https://github.com/JohanScheepers/TTN_Gateway_Notification/blob/main/TTN_Gateway_Notification.json
    ```
 
 5. There is a inject node at the beginning of the flow “Gateway ID”, copy and paste for each of your gateways.

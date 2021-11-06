@@ -109,9 +109,13 @@ To get a local copy up and running follow these simple steps.
 5. There is a inject node at the beginning of the flow “Gateway ID”, copy and paste for each of your gateways.
 
 6. In the string field add your gateway “Gateway ID” 
-<img src="images/injectNode.PNG" alt="Demo" width="450" height="200">
+	This ns in the Node-red flow
 
-<img src="images/gatewayId.PNG" alt="Demo" width="450" height="450">
+	<img src="images/injectNode.PNG" alt="Demo" width="450" height="200">
+
+	This is from The Things Network console
+
+	<img src="images/gatewayId.PNG" alt="Demo" width="450" height="450">
 
 
 

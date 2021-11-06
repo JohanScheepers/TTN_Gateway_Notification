@@ -13,8 +13,6 @@
     <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/blob/main/images/gatewayRadius.gif">View Demo</a>
-    •
     <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/issues">Report Bug</a>
     •
     <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/issues">Request Feature</a>
@@ -92,7 +90,7 @@ To get a local copy up and running follow these simple steps.
    ```
 4. Install the Node-Red flow
    ```sh
-https://github.com/JohanScheepers/TTN_Gateway_Notification/blob/main/TTN_Gateway_Notification.json
+   https://github.com/JohanScheepers/TTN_Gateway_Notification/blob/main/TTN_Gateway_Notification.json
    ```
 
 5. There is a inject node at the beginning of the flow “Gateway ID”, copy and paste for each of your gateways.

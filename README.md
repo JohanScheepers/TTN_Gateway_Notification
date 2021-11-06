@@ -109,13 +109,43 @@ To get a local copy up and running follow these simple steps.
 5. There is a inject node at the beginning of the flow “Gateway ID”, copy and paste for each of your gateways.
 
 6. In the string field add your gateway “Gateway ID” 
-	This ns in the Node-red flow
+This is in the Node-red flow
 
-	<img src="images/injectNode.PNG" alt="Demo" width="450" height="200">
+<img src="images/injectNode.PNG" alt="Demo" width="450" height="200">
 
-	This is from The Things Network console
+This is from The Things Network console
 
-	<img src="images/gatewayId.PNG" alt="Demo" width="450" height="450">
+<img src="images/gatewayId.PNG" alt="Demo" width="450" height="450">
+
+7. Create a Telegram bot https://core.telegram.org/bots#6-botfather
+   ```sh
+   https://core.telegram.org/bots#6-botfather
+   ```
+
+8. Create a new group on telegram and add the bot
+
+9. Add Telegram Bot Raw to the group.
+
+10. In the message that Telegram Bot Raw returns copy the “chat id”
+
+ <img src="images/chatId.PNG" alt="Demo" width="450" height="450">
+
+11. Insert the “chat ID” into the function node “Prep Telegram”
+
+<img src="images/prepTelegram.PNG" alt="Demo" width="450" height="250">
+
+12. In the Telegram Sender node add you bot name and select the pencil
+
+<img src="images/telegramSender.PNG" alt="Demo" width="300" height="250">
+
+13. Add you bot name and the token from Bot Father. Then select update and done
+
+<img src="images/telegramToken.PNG" alt="Demo" width="300" height="250">
+
+14. Deploy your flow.
+
+
+
 
 
 

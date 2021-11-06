@@ -1,5 +1,3 @@
-# TTN_Gateway_-Notification-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

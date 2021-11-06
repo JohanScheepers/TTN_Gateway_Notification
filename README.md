@@ -108,6 +108,7 @@ To get a local copy up and running follow these simple steps.
 
 5. There is a inject node at the beginning of the flow “Gateway ID”, copy and paste for each of your gateways.
 
+
 6. In the string field add your gateway “Gateway ID” 
 	This ns in the Node-red flow
 

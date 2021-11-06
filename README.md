@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/JohanScheepers/TTN_Gateway_-Notification-">
+  <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification">
     <img src="images/SIGNALOWL.jpg" alt="Logo" width="160" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     Project is aimed to use the TTN API to plot gateways and location of potential new node on map
     <br />
-    <a href="https://github.com/JohanScheepers/TTN_Gateway_Node"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/JohanScheepers/TTTN_Gateway_-Notification-/blob/main/images/gatewayRadius.gif">View Demo</a>
+    <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/blob/main/images/gatewayRadius.gif">View Demo</a>
     ·
-    <a href="https://github.com/JohanScheepers/TTN_Gateway_-Notification-/issues">Report Bug</a>
+    <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JohanScheepers/TTN_Gateway_-Notification-/issues">Request Feature</a>
+    <a href="https://github.com/JohanScheepers/TTN_Gateway_Notification/issues">Request Feature</a>
   </p>
 </p>
 
@@ -182,7 +182,7 @@ This is a call the The Things Network Status Page, showing some of the gateway s
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/JohanScheepers/TTN_Gateway_-Notification-/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/JohanScheepers/TTN_Gateway_Notification/issues) for a list of proposed features (and known issues).
 
 
 
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 
-Project Link: [https://github.com/JohanScheepers/TTN_Gateway_-Notification-](https://github.com/JohanScheepers/TTN_Gateway_Node)
+Project Link: [https://github.com/JohanScheepers/TTN_Gateway_Notification](https://github.com/JohanScheepers/TTN_Gateway_Node)
 
 
 
@@ -210,7 +210,7 @@ Project Link: [https://github.com/JohanScheepers/TTN_Gateway_-Notification-](htt
 [forks-shield]: https://img.shields.io/github/forks/JohanScheepers/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/JohanScheepers/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/JohanScheepers/repo.svg?style=for-the-badge
-[stars-url]:https://github.com/JohanScheepers/TTN_Gateway_-Notification-/stargazers
+[stars-url]:https://github.com/JohanScheepers/TTN_Gateway_Notification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/JohanScheepers/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/JohanScheepers/repo/issues
 [license-shield]: https://img.shields.io/github/license/JohanScheepers/repo.svg?style=for-the-badge
